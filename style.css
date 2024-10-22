@@ -1,0 +1,26 @@
+h1 {
+  color: aqua;
+}
+h3 {
+  color: brown;
+}
+.c1 {
+  font-size: 20px;
+}
+#linkedlink {
+  color: black;
+}
+
+#linkedlink:hover {
+  color: aquamarine;
+  text-decoration-color: brown;
+}
+body {
+  /* background-image: url("C:\Users\mancpras\OneDrive - Capgemini\Desktop\Full Stack Devp\OIP.jpg"); */
+  /* background-color: paleturquoise; */
+}
+
+li {
+  background-color: blanchedalmond;
+  poi
+}
